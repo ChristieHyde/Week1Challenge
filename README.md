@@ -26,4 +26,4 @@ All of the images on the page have alternative text for accessibility purposes.
 
 ## Disclaimer
 
-This webpage is recreated purely for educational purposes, as part of the University of Western Australia Coding Boot Camp coursework. I do not own any of the content on the webpage and am in no way affiliated with Horiseon Social Solution Services.
+All of the source code in this repository, as well as all of the images with the exception of the page screenshot, were provided to me by the course and are not my original creations. This webpage is recreated purely for educational purposes, as part of the University of Western Australia Coding Boot Camp coursework. I do not own any of the content on the webpage, or any of the source code, and am in no way affiliated with Horiseon Social Solution Services.
