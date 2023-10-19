@@ -1,3 +1,4 @@
+/* Default styles for universal page elements */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -12,6 +13,7 @@ p {
     font-size: 16px;
 }
 
+/* Styles to position an image to the left or right of the container respectively */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -22,6 +24,7 @@ p {
     margin-left: 25px;
 }
 
+/* Styles for the page heading */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -38,6 +41,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Styles for the navigation bar */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -60,6 +64,7 @@ header nav ul li a {
     text-decoration: none;
 }
 
+/* Styles for the page hero image */
 .hero {
     height: 800px;
     width: 100%;
@@ -69,6 +74,7 @@ header nav ul li a {
     background-position: center;
 }
 
+/* Styles for the main page content and its items */
 .content {
     width: 75%;
     display: inline-block;
@@ -93,6 +99,7 @@ header nav ul li a {
     font-size: 36px;
 }
 
+/* Styles for the page sidebar and its items */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -120,6 +127,7 @@ header nav ul li a {
     max-width: 150px;
 }
 
+/* Styles for the page footer */
 footer {
     padding: 30px;
     clear: both;
