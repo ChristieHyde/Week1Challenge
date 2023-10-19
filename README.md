@@ -2,13 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
 This project is a webpage outlining the services provided by Horiseon Social Solution Services. It has been created to provide a practical introduction to Horiseon, and as an exercise in cleaning up existing HTML and CSS files.
 
 ## Installation
